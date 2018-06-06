@@ -6,7 +6,6 @@
 
 import numpy as np
 import pandas as pd
-import astropy as ast
 import urllib.request
 
 import ra_dec_conv as rd
